@@ -1,2 +1,2 @@
 # New-repo
-update discrimination 
+edited redme
